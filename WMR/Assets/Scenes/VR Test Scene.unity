@@ -173,6 +173,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1430356196732642, guid: 58f27e3d07d02114d9feb8eb5448261a,
         type: 3}
+    - target: {fileID: 114895734277317420, guid: fa4aec5413103264c884daee464826d9,
+        type: 3}
+      propertyPath: AlwaysUseAlternateRightModel
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fa4aec5413103264c884daee464826d9, type: 3}
 --- !u!1001 &393995445

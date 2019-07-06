@@ -242,14 +242,14 @@
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/Runtime/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.Advertisements">
-      <HintPath>C:/Users/Joshua Kristanto/Documents/Project_Nexus/WMR/Library/PackageCache/com.unity.ads@2.3.1/Runtime/UnityEngine.Advertisements.dll</HintPath>
+    <Reference Include="GLTFSerializationUWP">
+      <HintPath>Assets/MixedReality213-master/MixedReality213-master/Assets/HoloToolkit/Utilities/Scripts/GLTF/Plugins/GLTFSerialization/WSA/GLTFSerializationUWP.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>Assets/MixedReality213-master/MixedReality213-master/Assets/HoloToolkit/Utilities/Scripts/GLTF/Plugins/JsonNet/WSA/Newtonsoft.Json.dll</HintPath>
     </Reference>
-    <Reference Include="GLTFSerializationUWP">
-      <HintPath>Assets/MixedReality213-master/MixedReality213-master/Assets/HoloToolkit/Utilities/Scripts/GLTF/Plugins/GLTFSerialization/WSA/GLTFSerializationUWP.dll</HintPath>
+    <Reference Include="UnityEngine.Advertisements">
+      <HintPath>C:/Users/Joshua Kristanto/Documents/WMR-tutorial1/WMR/Library/PackageCache/com.unity.ads@2.3.1/Runtime/UnityEngine.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\mscorlib.dll</HintPath>
